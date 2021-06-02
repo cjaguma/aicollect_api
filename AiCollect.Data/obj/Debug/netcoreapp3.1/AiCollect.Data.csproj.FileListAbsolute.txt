@@ -1,0 +1,12 @@
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Data\bin\Debug\netcoreapp3.1\AiCollect.Data.deps.json
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Data\bin\Debug\netcoreapp3.1\AiCollect.Data.dll
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Data\bin\Debug\netcoreapp3.1\AiCollect.Data.pdb
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Data\bin\Debug\netcoreapp3.1\AiCollect.Core.dll
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Data\bin\Debug\netcoreapp3.1\AiCollect.Core.pdb
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Data\obj\Debug\netcoreapp3.1\AiCollect.Data.csprojAssemblyReference.cache
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Data\obj\Debug\netcoreapp3.1\AiCollect.Data.AssemblyInfoInputs.cache
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Data\obj\Debug\netcoreapp3.1\AiCollect.Data.AssemblyInfo.cs
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Data\obj\Debug\netcoreapp3.1\AiCollect.Data.csproj.CoreCompileInputs.cache
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Data\obj\Debug\netcoreapp3.1\AiCollect.Data.csproj.CopyComplete
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Data\obj\Debug\netcoreapp3.1\AiCollect.Data.dll
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Data\obj\Debug\netcoreapp3.1\AiCollect.Data.pdb

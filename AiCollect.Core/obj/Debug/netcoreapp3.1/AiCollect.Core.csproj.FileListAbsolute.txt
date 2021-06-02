@@ -1,0 +1,8 @@
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Core\bin\Debug\netcoreapp3.1\AiCollect.Core.deps.json
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Core\bin\Debug\netcoreapp3.1\AiCollect.Core.dll
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Core\bin\Debug\netcoreapp3.1\AiCollect.Core.pdb
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Core\obj\Debug\netcoreapp3.1\AiCollect.Core.AssemblyInfoInputs.cache
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Core\obj\Debug\netcoreapp3.1\AiCollect.Core.AssemblyInfo.cs
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Core\obj\Debug\netcoreapp3.1\AiCollect.Core.csproj.CoreCompileInputs.cache
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Core\obj\Debug\netcoreapp3.1\AiCollect.Core.dll
+C:\Users\CJ\source\Workspaces\AiCollect\AiCollect.Core\obj\Debug\netcoreapp3.1\AiCollect.Core.pdb
